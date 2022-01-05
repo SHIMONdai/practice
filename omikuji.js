@@ -1,1 +1,2 @@
-omikuji.js
+let username;
+let userresult;
