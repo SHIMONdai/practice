@@ -1,1 +1,3 @@
-alert.js
+function loadHello(){
+    alert("Hello!");
+  }
